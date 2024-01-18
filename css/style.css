@@ -182,7 +182,7 @@ main {
 /* 추천 여행지 start */
 .rec-box {
     display: grid;
-    height: 150px;
+    height: 280px;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-column-gap: 10px;
 }
